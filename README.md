@@ -1,4 +1,4 @@
-- 👋 Hi, we are @PortfolioTeam04
+- 👋 Hi, we are @PortfolioTeam04 sidehustle intership 5.0
 - 👀 interested in coding
 - 🌱 we are currently learningdifferent programming lang
 - 💞️ we looking looking to collaborate with each others and also dev gurus
